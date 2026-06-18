@@ -1,0 +1,7 @@
+venv/
+**pycache**/
+data/*.pdf
+.ipynb_checkpoints/
+.env
+.pytest_cache/
+.vscode/
